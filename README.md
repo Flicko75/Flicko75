@@ -37,7 +37,6 @@ Learning:<br/>
 
 # 📊 GitHub Stats:
 ![](https://nirzak-streak-stats.vercel.app/?user=Flicko75&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs?username=Flicko75&theme=react&layout=compact&langs_count=8&card_width=415&hide_border=true)
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Flicko75&theme=radical&no-frame=false&no-bg=true&margin-w=4)
